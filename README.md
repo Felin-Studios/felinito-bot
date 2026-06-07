@@ -1,4 +1,4 @@
-# Felinito-bot
+# Felinito - bot
 
 Web de políticas de Felinito Bot
 
