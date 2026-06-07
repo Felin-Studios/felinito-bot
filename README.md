@@ -2,22 +2,18 @@
 
 Web de políticas de Felinito Bot
 
-POLÍTICA DE PRIVACIDAD
+Términos de Servicio
 
-Este servicio respeta la privacidad del usuario.
+Al utilizar este servicio, aceptas estos Términos de Servicio en su totalidad. Si no estás de acuerdo, debes dejar de usar el servicio inmediatamente.
 
-Recopilación de datos
+Uso del servicio
 
-Solo se recopina la información mínima necesaria para el funcionamiento del servicio.
+El usuario se compromete a utilizar el servicio de manera responsable y legal. Queda prohibido el abuso del sistema, el spam o cualquier intento de hackeo o daño al servicio.
 
-Uso de datos
+Suspensión de acceso
 
-Los datos no se venden ni se comparten con terceros.
+Nos reservamos el derecho de suspender o restringir el acceso a cualquier usuario que incumpla estas reglas sin previo aviso.
 
-Seguridad
+Modificaciones
 
-Se aplican medidas razonables para proteger la información del usuario, aunque no se puede garantizar seguridad absoluta en sistemas en línea.
-
-Contacto
-
-Si tienes dudas sobre esta política, puedes contactar al administrador del servicio.
+Estos términos pueden actualizarse en cualquier momento sin notificación previa.
